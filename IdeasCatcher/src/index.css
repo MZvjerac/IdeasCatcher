@@ -1,0 +1,206 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+.jumbotron {
+    background: url("slike/livada2.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 1128px;
+    margin-bottom: 16px;
+}
+
+.container {
+    background-color: aquamarine;
+    width: auto;
+}
+
+.btn-btn-primary {
+    border-radius: 4px;
+    background-color: aquamarine;
+}
+
+.btn-btn-primary:hover {
+    color: rgb(255, 166, 0);
+}
+
+table {
+    border: black;
+    width: 100%;
+}
+
+.form-group {
+    width: 290px;
+}
+
+th {
+    background-color: aquamarine;
+}
+
+thead,
+tbody {
+    display: block;
+}
+
+tbody {
+    height: 308px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+table {
+    width: 100%;
+}
+
+.btn1 {
+    background-color: aquamarine;
+    border-radius: 4px;
+}
+
+.selection {
+    width: 250px;
+}
+
+.rb {
+    width: 50px;
+}
+
+.h1 {
+    width: 27px;
+    font-size: 16px;
+}
+
+.h2 {
+    font-size: 14px;
+}
+
+.vri {
+    word-break: break-all;
+    width: 81px;
+}
+
+.h3 {
+    font-size: 16px;
+}
+
+.aka {
+    word-break: break-all;
+    width: 73px;
+}
+
+.h4 {
+    font-size: 16px;
+}
+
+.opis {
+    word-break: break-all;
+    width: 119px;
+}
+
+.h5 {
+    font-size: 16px;
+}
+
+.rejt {
+    width: 60px;
+}
+
+.kat {
+    width: 116px;
+}
+
+.h7 {
+    font-size: 16px;
+}
+
+.oc {
+    word-break: break-all;
+    width: 122px;
+}
+
+.izm {
+    width: 85px;
+}
+
+.h8 {
+    font-size: 16px;
+}
+
+.bris {
+    width: 62px;
+}
+
+#posao {
+    width: 246px;
+}
+
+#rejting {
+    width: 246px;
+}
+
+.btn1 {
+    background-color: aquamarine;
+    border-radius: 4px;
+}
+
+.selection {
+    width: 250px;
+}
+
+.AppNav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    text-align: right;
+    background-color: rgb(197, 248, 79);
+    background-blend-mode: lighten;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 1128px;
+    height: 55px;
+}
+
+.AppNav li {
+    display: inline-block;
+    margin: 20px;
+}
+
+.AppNav a {
+    text-decoration: none;
+}
+
+.AppNav a:hover,
+.AppNav a:active {
+    color: rgb(3, 4, 100);
+}
+
+.t2 {
+    height: 120px;
+}
+
+.h12 {
+    font-size: 35px;
+    font-weight: lighter;
+}
+
+.t2r1 {
+    width: 146px;
+}
+
+.t2r2 {
+    width: 90px;
+}
+
+.container2 {
+    background-color: aquamarine;
+    width: 1128px;
+}
