@@ -1,10 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## BASIC
+
 This app serves to C.R.U.D. your ideas:
+
 ![CRUD1](https://user-images.githubusercontent.com/68098543/90505749-6fa76d00-e153-11ea-83c0-34f2b4e94089.JPG)
 
 Also, yo can change category of your ideas (business, private life, boating, and so on...)
 
+![CRUD2](https://user-images.githubusercontent.com/68098543/90506159-1c81ea00-e154-11ea-9b8f-3269701765b9.JPG)
 
 
 ## Available Scripts
